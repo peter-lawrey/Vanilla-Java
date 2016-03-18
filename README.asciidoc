@@ -1,3 +1,10 @@
-= Vanilla-Java
+= Peter Lawrey's blog
 
-Vanilla-Java blog
+This blog contains content from documentation written for Chronicle, and also my own personal thoughts and ideas.
+
+
+= Why move to Asciidoc on Github from Blogger.
+
+I am moving my blog to use Asciidoc on Github.com.
+
+This is partically to make it easier to embed code and tables, but mostly because I am tired of fighting blogger to not mess with the content when I edit a posting.
