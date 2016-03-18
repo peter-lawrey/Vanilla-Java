@@ -2,6 +2,11 @@
 
 This blog contains content from documentation written for Chronicle, and also my own personal thoughts and ideas.
 
+== Articles
+
+March 2016
+
+- https://github.com/OpenHFT/RFC/blob/master/Size-Prefixed-Blob/Size-Prefixed-Blob-1.0.asciidoc[Size Prefixed Blobs 1.0 Released]
 
 = Why move to Asciidoc on Github from Blogger.
 
