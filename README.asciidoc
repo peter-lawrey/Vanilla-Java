@@ -4,10 +4,10 @@ This blog contains content from documentation written for Chronicle, and also my
 
 == Articles
 
-March 2016
-
-- https://github.com/OpenHFT/RFC/blob/master/Self-Bootstrapping-Data/Self-Bootstrapping-Data-1.0.asciidoc[Self Bootstrapping Data 1.0 Released]
-- https://github.com/OpenHFT/RFC/blob/master/Size-Prefixed-Blob/Size-Prefixed-Blob-1.0.asciidoc[Size Prefixed Blobs 1.0 Released]
+*March 2016*::
+[options="compact"]
+  - https://github.com/OpenHFT/RFC/blob/master/Self-Bootstrapping-Data/Self-Bootstrapping-Data-1.0.asciidoc[Self Bootstrapping Data 1.0 Released]
+  - https://github.com/OpenHFT/RFC/blob/master/Size-Prefixed-Blob/Size-Prefixed-Blob-1.0.asciidoc[Size Prefixed Blobs 1.0 Released]
 
 = Why move to Asciidoc on Github from Blogger.
 
