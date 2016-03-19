@@ -14,4 +14,4 @@ This blog contains content from documentation written for Chronicle, and also my
 
 I am moving my blog to use Asciidoc on Github.com.
 
-This is partically to make it easier to embed code and tables, but mostly because I am tired of fighting blogger to not mess with the content when I edit a posting.
+This is partially to make it easier to embed code and tables, but mostly because I am tired of fighting blogger to not mess with the content when I edit a posting.
